@@ -1,8 +1,8 @@
 
-  # Yeongkim's Reservation
+  # Tiny Reservation
 
-  This is a code bundle for Yeongkim's Reservation. The original project is available at https://www.figma.com/design/6O22jc8dZ6G60kXnCH8hlo/Yeongkim-s-Reservation.
-
+  This is a code bundle for Tiny Reservation. 
+  
   ## Running the code
 
   Run `npm i` to install the dependencies.
